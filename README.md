@@ -1,7 +1,7 @@
 # 💫 About Me:
 📋 Projects in Progress :<br>
--🔒 Discord Bot (v1.0-dev1)<br>
--🔒 Tasks for Students<br>
+-🔒 SessikBot (v1.0-dev1)<br>
+-🔒 4Students ()<br>
 💻 Learning C#, HTML, CSS, TS, Blazor & Angular<br>
 
 
