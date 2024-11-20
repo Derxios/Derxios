@@ -1,7 +1,7 @@
 # 💫 About Me:
 📋 Projects in Progress :<br>
 -🔒 SessikBot (v1.0-dev1)<br>
--🔒 4Students ()<br>
+-🔓 4Students (v1)<br>
 💻 Learning C#, HTML, CSS, TS, Blazor & Angular<br>
 
 
