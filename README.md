@@ -1,6 +1,6 @@
 # 💫 About Me:
 📋 Projects in Progress :<br>
--🔒 Discord Bot (vPre1.0)<br>
+-🔒 Discord Bot (v1.0-dev1)<br>
 -🔒 Tasks for Students<br>
 💻 Learning C#, HTML, CSS, TS, Blazor & Angular<br>
 
