@@ -1,5 +1,14 @@
 # 💫 About Me:
-📋 Projects in Progress : Minusgeschaeft <br>
+📋 Projects: <br>
+- **Confluencer** (Electron) <br>
+  Application for manual Atlassian Confluence backups & restores <br>
+- **AutoConfluencer** (.NET console app) <br>
+  Application for automated daily & weekly backups <br>
+- **Minusgeschaeft** (MAUI android app)
+  Finance & savings planner **(in progress)**
+- **Rivio** (Blazor Web App)
+  Web App for competitive rankings & friend-based competitions **(in progress)**
+
 💻 Learning C#, HTML, CSS, Blazor<br>
 
 
