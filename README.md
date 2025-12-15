@@ -4,10 +4,10 @@
   Application for manual Atlassian Confluence backups & restores <br>
 - **AutoConfluencer** (.NET console app) <br>
   Application for automated daily & weekly backups <br>
-- **Minusgeschaeft** (MAUI android app)
-  Finance & savings planner **(in progress)**
-- **Rivio** (Blazor Web App)
-  Web App for competitive rankings & friend-based competitions **(in progress)**
+- **Minusgeschaeft** (MAUI android app) <br>
+  Finance & savings planner **(in progress)** <br>
+- **Rivio** (Blazor Web App) <br>
+  Web App for competitive rankings & friend-based competitions **(in progress)** <br>
 
 💻 Learning C#, HTML, CSS, Blazor<br>
 
