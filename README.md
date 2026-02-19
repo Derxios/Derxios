@@ -6,7 +6,7 @@
   Automated daily & weekly backups <br>
 - **Minusgeschaeft** (MAUI android app) <br>
   Finance & savings planner **(in progress)** <br>
-- **Rivio** (Blazor Web App) <br>
+- **Rivio** (MAUI android app) <br>
   Competitive rankings & friend-based competitions **(in progress)** <br>
 
 💻 Currently improving skills in C#, HTML, CSS, Blazor<br>
