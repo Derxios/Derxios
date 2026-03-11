@@ -1,13 +1,26 @@
-# 💫 About Me:
-📋 Projects: <br>
-- **Confluencer** (Electron) <br>
- Manual Atlassian Confluence backups & restores <br>
-- **AutoConfluencer** (.NET console app) <br>
-  Automated daily & weekly backups <br>
-- **Minusgeschaeft** (MAUI android app) <br>
-  Finance & savings planner **(in progress)** <br>
-- **Rivio** (MAUI android app) <br>
-  Competitive rankings & friend-based competitions **(in progress)** <br>
+# 💫 About Me
+
+## 📋 Projects
+
+### Confluencer  
+**.NET MAUI Blazor Hybrid Desktop App**  
+Manual Atlassian Confluence backup & restore tool  
+Version: IHK project
+
+### Minusgeschaeft  
+**.NET MAUI Blazor Hybrid Android App**  
+Personal finance & savings planner  
+Version: MVP
+
+---
+
+## 🚀 Upcoming Project
+
+### Rivio  
+**.NET MAUI Blazor Hybrid Android App**  
+Competitive rankings & friend-based competitions  
+
+📅 Planned launch: **01.01.2027**
 
 💻 Currently improving skills in C#, HTML, CSS, Blazor<br>
 
